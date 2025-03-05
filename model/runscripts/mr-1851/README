@@ -1,0 +1,9 @@
+These namelists were used to run FESOM2 on the mr mesh from 1851-2090 using initial codnitions taken from 12-1850 from the AWI-CM-1-1-MR r1i1p1f1 historical simualtion in CMIP6. Forcing data is taken from the same simulation from 1851-2090. 
+
+CMIP6 data: Semmler et al. (2020).
+Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., Rackow, T., Sein, D. V., Sidorenko, D., Wang, Q., & Jung, T. (2020). Simulations for CMIP6 With the AWI Climate Model AWI-CM-1-1. Journal of Advances in Modeling Earth Systems, 12(9), e2019MS002009. https://doi.org/10.1029/2019MS002009 
+
+The model was initialized with a timestep of 100 seconds and run for one year. Afterwards, a timestep of 480 seconds was used. 
+In 1949 and 2089, the model was run with the namelist.io_high-io replacing namelist.io. This increases the output of the model to allow initial conditions for the simulations so3-1950 and so3-2090 to be produced. 
+
+ 

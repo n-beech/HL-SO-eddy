@@ -1,0 +1,15 @@
+These folders contain the runscripts used to run the transient (MR mesh, 1851-2100), historical (SO3 mesh, 1950-1956), and projected (SO3 mesh, 2090-2096) FESOM simulations described in Beech et al. (2024) and Beech et al. (2025). The initial conditions used to initialize these simulations are available on zenodo (doi to be added).
+
+FESOM2 is open source and publicly available. The version used in these simualtions is FESOM2.5_SO3 (Danilov et al. 2024).
+
+FESOM2 meshes are publicly available at https://zenodo.org/communities/fesom2_meshes/records?q=&l=list&p=1&s=10&sort=newest . The SO3 mesh used in these simulations is publicly availableand persistent: (Kolunov and Harig, 2025).
+
+Beech, N., Rackow, T., Semmler, T., & Jung, T. (2024). Exploring the ocean mesoscale at reduced computational cost with FESOM 2.5: Efficient modeling strategies applied to the Southern Ocean. Geoscientific Model Development, 17(2), 529–543. https://doi.org/10.5194/gmd-17-529-2024
+
+Beech, N., Rackow, T., Semmler, T., & Jung, T. (2025). Eddy activity in the high-latitude Southern Ocean and its response to climate change (to be published in Comms. Earth and Env.)
+
+Danilov, S., Sidorenko, D., Koldunov, N., Scholz, P., Wang, Q., Rackow, T., Helge, G., and Zampieri, L. (2024). FESOM2.5_SO3, Zenodo [code], https://doi.org/10.5281/zenodo.10476072
+
+Koldunov, N. V., & Harig, S. (2025). FESOM2 meshes: SO3 (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14910006
+
+
