@@ -1,4 +1,4 @@
-These folders contain the runscripts used to run the transient (MR mesh, 1851-2100), historical (SO3 mesh, 1950-1956), and projected (SO3 mesh, 2090-2096) FESOM simulations described in Beech et al. (2024) and Beech et al. (2025). The initial conditions used to initialize these simulations are available on zenodo (doi to be added).
+These folders contain the runscripts used to run the transient (MR mesh, 1851-2100), historical (SO3 mesh, 1950-1956), and projected (SO3 mesh, 2090-2096) FESOM simulations described in Beech et al. (2024) and Beech et al. (2025). The initial conditions used to initialize these simulations are available on zenodo (https://doi.org/10.5281/zenodo.14975626).
 
 FESOM2 is open source and publicly available. The version used in these simualtions is FESOM2.5_SO3 (Danilov et al. 2024).
 
